@@ -25,3 +25,4 @@ OpenCore's EFI folder foder AMD based Hackintosh.
 ## Known Issues
 
 - Front jack not working
+- Kext for RTL Ethernet need to be added
