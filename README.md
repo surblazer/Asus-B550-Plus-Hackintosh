@@ -1,4 +1,4 @@
-# OpenCore EFI Setup for Asus ROG B550-I Strix, Ryzen 5600x and Radeon RX 6600 XT
+# OpenCore EFI Setup for Asus TUF B550-Plus, Ryzen 5700X and Radeon RX 6600 XT
 
 OpenCore's EFI folder foder AMD based Hackintosh.
 
@@ -9,20 +9,19 @@ OpenCore's EFI folder foder AMD based Hackintosh.
 
 | Name               | Model                            |
 | ------------------ | -------------------------------- |
-| **Motherboard**    | ASUS ROG B550-I Strix            |
-| **CPU**            | AMD Ryzen 5600X                  |
-| **GPU**            | XFX AMD Radeon RX 6600 XT 8GB    |
-| **RAM**            | Corsair 2x8 DDR4 3600 MHz        |
-| **SSD**            | SanDisk SanDisk SDSSDH3 250G     |
-| **Ethernet**       | Intel Ethernet Controller I115-V |
-| **WiFi/Bluetooth** | Intel Wi-Fi 6 AX2000             |
+| **Motherboard**    | Asus TUF B550-Plus               |
+| **CPU**            | AMD Ryzen 5700X                  |
+| **GPU**            | Gigabyte Radeon RX 6600 XT 8GB   |
+| **RAM**            | HyperX Fury 2x16 DDR4 3600 MHz   |
+| **SSD**            | Lexar NM710 2TB                  |
+| **Ethernet**       | Realtek Ethernet Controller      |
+| **WiFi/Bluetooth** | Fenvi T919 (BCM94360)            |
 
 ### Software
 
 - **OpenCore:** v0.9.5
-- **macOS:** v14.1 Sonoma
+- **macOS:** v13.6.4 Ventura - v14.1 Sonoma
 
 ## Known Issues
 
-- Instable bluetooth
 - Front jack not working
