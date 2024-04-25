@@ -20,7 +20,7 @@ OpenCore's EFI folder foder AMD based Hackintosh.
 ### Software
 
 - **OpenCore:** v0.9.5
-- **macOS:** v13.6.4 Ventura - v14.1 Sonoma
+- **macOS:** v13.6.4 Ventura
 
 ## Known Issues
 
