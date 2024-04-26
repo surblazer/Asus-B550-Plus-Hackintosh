@@ -22,6 +22,12 @@ OpenCore's EFI folder foder AMD based Hackintosh.
 - **OpenCore:** v0.9.5
 - **macOS:** v13.6.4 Ventura
 
+### Notes
+
+- Resize Bar MUST BE enabled, otherwise you will get glitches screen on Mac recovery
+- Sonoma installation is possible, only problem is Broadcom wifi. Except that, EFI must work on Sonoma for sure
+- Don't forget to set your own CPU cores counter (look at AMD Vanilla patch guide), USB Mapping (I personally use USBToolbox + UTBMap) and S/N for proper iMessage support
+
 ## Known Issues
 
 - Front jack not working
